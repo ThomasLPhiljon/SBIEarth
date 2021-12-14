@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mageu - Milk Carton
+* source:	https://sketchfab.com/3d-models/mageu-milk-carton-da0c90a555074706a7733bba724aff7c
+* author:	Rei137 (https://sketchfab.com/Rei137)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mageu - Milk Carton" (https://sketchfab.com/3d-models/mageu-milk-carton-da0c90a555074706a7733bba724aff7c) by Rei137 (https://sketchfab.com/Rei137) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
