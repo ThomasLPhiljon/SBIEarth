@@ -1,0 +1,98 @@
+{
+	"assets": {
+		"assetitems": [{
+				"id": "plasticbottle",
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/plasticbottle/scene.gltf"
+			},
+			{
+				"id": "juicecarton",
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/juicebox/scene.gltf"
+			},
+			{
+				"id": "trashbottle",
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/trashbottlegltf/scene.gltf"
+			},
+			{
+				"id": "trashjuicecarton",
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/juiceboxtrash/scene.gltf"
+			}
+		]
+	},
+	"markers": [{
+			"type": "pattern",
+			"url": "https://cdn.glitch.me/d94ff9f1-6fd9-4f6f-8f11-c1406bcb6a32/pattern-CavinNew.patt?v=1639478472628",
+			"markeritems": [{
+					"type": "a-entity",
+					"gltfmodel": "#juicecarton",
+					"scale": "0.1 0.1 0.1",
+					"position": "0 0 -0.75",
+					"rotation": "-90 0 0"
+				},
+				{
+					"type": "a-plane",
+					"color": "gray",
+					"rotation": "-90 0 0",
+					"position": "0 -0.25 0",
+					"scale": "1 1 1",
+					"material": "transparent: true; opacity: 0.75",
+					"geometry": ""
+				},
+				{
+					"type": "a-text",
+					"value": "Juice Carton",
+					"color": "red",
+					"rotation": "-90 0 0",
+					"position": "-0.1 0 0 ",
+					"align": "center",
+					"scale": "0.8 0.8 0.8",
+					"text": ""
+				},
+				{
+					"type": "a-entity",
+					"gltfmodel": "#trashjuicecarton",
+					"scale": "0.25 0.25 0.25",
+					"position": "-0.3 0.5 0.85",
+					"rotation": "-10 -360 -90"
+				}
+			]
+		},
+		{
+			"type": "pattern",
+			"url": "https://cdn.glitch.me/d94ff9f1-6fd9-4f6f-8f11-c1406bcb6a32/pattern-MaazaImg.patt?v=1639471473451",
+			"markeritems": [{
+					"type": "a-entity",
+					"gltfmodel": "#plasticbottle",
+					"scale": "0.25 0.25 0.25",
+					"position": "-0.1 0.5 -0.85",
+					"rotation": "-90 0 0"
+				},
+				{
+					"type": "a-plane",
+					"color": "gray",
+					"rotation": "-90 0 0",
+					"position": "-0.1 -0.25 0",
+					"scale": "1 1 1",
+					"material": "transparent: true; opacity: 0.75",
+					"geometry": ""
+				},
+				{
+					"type": "a-text",
+					"value": "Plastic Bottle",
+					"color": "red",
+					"rotation": "-90 0 0",
+					"position": "-0.1 0 0 ",
+					"align": "center",
+					"scale": "0.8 0.8 0.8",
+					"text": ""
+				},
+				{
+					"type": "a-entity",
+					"gltfmodel": "#trashbottle",
+					"scale": "0.05 0.05 0.05",
+					"position": "-0.1 0.5 0.85",
+					"rotation": "0 -90 0"
+				}
+			]
+		}
+	]
+}
