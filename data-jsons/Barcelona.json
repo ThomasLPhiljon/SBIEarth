@@ -2,19 +2,19 @@
 	"assets": {
 		"assetitems": [{
 				"id": "plasticbottle",
-				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/plasticbottle/scene.gltf"
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SBIEarth/main/model-assets/plasticbottle/scene.gltf"
 			},
 			{
 				"id": "juicecarton",
-				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/juicebox/scene.gltf"
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SBIEarth/main/model-assets/juicebox/scene.gltf"
 			},
 			{
 				"id": "trashbottle",
-				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/trashbottlegltf/scene.gltf"
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SBIEarth/main/model-assets/trashbottlegltf/scene.gltf"
 			},
 			{
 				"id": "trashjuicecarton",
-				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SampleWebXr/main/juiceboxtrash/scene.gltf"
+				"src": "https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/ThomasLPhiljon/SBIEarth/main/model-assets/juiceboxtrash/scene.gltf"
 			}
 		]
 	},
